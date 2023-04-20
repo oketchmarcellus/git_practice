@@ -1,0 +1,38 @@
+body {
+    background: #000000;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+#discover h1, #travel-guide h1, #coming-soon h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: normal;
+}
+#discover a, #coming-soon a {
+    text-align: center;
+    width: 100% !important;
+    display: block;
+}
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+video {
+    object-fit: contain;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+p {
+    color: Gray;
+    font-size: 21px;
+}
+section {
+	margin-bottom: 2rem;
+    margin-top: 2rem;
+}
